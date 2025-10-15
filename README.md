@@ -99,22 +99,22 @@ Stockout risk is concentrated in **Office Supplies**, especially **Binders**, wh
 
 ---
 
-### **Regional Sales Performance**
-![Region Sales Performance](Region%20Sales%20Performance.jpg)
+### **Regional Sales Performance (Excel Analysis)**
+![Region Sales Performance ](Region%20Sales%20Performance.jpg)
 
 ---
 
-### **Seasonal Sales Performance**
+### **Seasonal Sales Performance (Excel Analysis)**
 ![Season Sales Performance](Season%20Sales%20Performance.jpg)
 
 ---
 
-### **Retail Inventory Dashboard**
+### **Retail Inventory Dashboard (Power BI)**
 ![Retail Inventory Dashboard](Retail%20Inventory%20Dashboard.png)
 
 ---
 
-### **Office Supplies Reorder Risk**
+### **Office Supplies Reorder Risk (Excel Analysis)**
 ![Office Supplies Reorder Risk](Office%20Supplies%20Reorder%20Risk.jpg)
 
 ---
