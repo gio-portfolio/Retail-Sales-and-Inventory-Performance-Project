@@ -10,6 +10,23 @@ The analysis was completed in two stages:
 
 ---
 
+## 🧰 Tools Used
+- **Excel** – Data cleaning, calculations, and pivot table analysis.  
+- **Power BI** – Dashboard design and visualisation.  
+- **Microsoft Office Suite** – Supporting documentation and formatting.  
+
+---
+
+## 🧮 Functions & Techniques Used
+- **VLOOKUP** – To link product IDs to product names.  
+- **IF Statements** – To identify reorder requirements.  
+- **Calculated Columns** – For starting stock, reorder point, and current stock.  
+- **Pivot Tables & Charts** – For exploratory data analysis in Excel.  
+- **Conditional Formatting** – To highlight reorder needs visually.  
+- **Dashboard Visuals (Power BI):** KPI Cards, Bar Charts, Line Charts, Pie Charts.
+
+---
+
 ## ⚙️ Preparation Phase
 
 ### **Sales Table Creation**
